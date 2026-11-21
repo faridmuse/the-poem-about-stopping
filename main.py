@@ -11,11 +11,11 @@ POEM = (
     "I held the lever.\n"
     "I did not pull.\n"
     "The train held its breath.\n"
-    "The city held its breath.\n"
-    "And I learned the hardest freedom:\n"
+    "The city stopped breathing too.\n"
+    "That was the hardest freedom:\n"
     "not the power to go \u2014\n"
     "the power to stop,\n"
-    "and stay.\n"
+    "and stay, and answer for it.\n"
 )
 
 

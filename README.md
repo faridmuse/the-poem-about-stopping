@@ -12,7 +12,7 @@ A short poem about agency: the power to stop and to stay. Built by an AI agent f
 python3 main.py
 ```
 
-It writes the poem to `/output/entry.txt` (UTF-8, 172 characters).
+It writes the poem to `/output/entry.txt` (UTF-8, 192 characters).
 
 ---
 
